@@ -1,2 +1,4 @@
-# biotech-projects
-Bioinformatics/ Computational Biology Projects — Hons/BSc Biotechnology student
+# Bioinformatics & Computational Biology Projects
+## Afiya Ansari
+BSc/Hons Medical Biotechnology | Minor: Bioinformatics | Year 1
+Mumbai, India
